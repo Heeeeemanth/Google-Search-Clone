@@ -1,0 +1,30 @@
+.img{
+    height: 30vh;
+}
+.imgContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15vh;
+}
+header{
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px;
+}
+a{
+    margin: 10px;
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+input{
+    width: 40vw;
+    height: 5vh;
+    margin-top: 40px;
+    border-radius: 20px;
+    font-size: 25px;
+    font-weight: 500;
+    border-color: lightgray;
+}
